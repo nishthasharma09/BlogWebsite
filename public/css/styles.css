@@ -1,0 +1,44 @@
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	background-color: #212121;
+}
+
+.nav-link {
+	color: #d9cab3;
+}
+
+.navbar-brand {
+	color: #d9cab3;
+	padding-left: 0.5em;
+}
+
+.body {
+	background-color: #f6f6f6;
+	padding: 0 2em;
+	height: 100vh;
+}
+
+.body h1,
+h3,
+h2 {
+	color: #6d9886;
+	padding-top: 0.5em;
+}
+
+.body p {
+	color: #444941;
+}
+
+.body input,
+textarea {
+	padding: 0.2em 0;
+	border: 1px solid gray;
+	margin: 10px 0;
+	width: 90%;
+	border-radius: 10px;
+}
